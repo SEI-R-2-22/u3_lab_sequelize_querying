@@ -27,10 +27,6 @@ You'll be utilizing the prior **[Lesson](https://github.com/SEI-R-2-22/u3_lesson
 
 The `query.js` file has all of the necessary instructions in order to complete this lab.
 
-## Submission
-
-Submit a pr utilizing the **[PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)**.
-
 ## Resources
 
 - [Sequelize Querying](https://sequelize.org/master/manual/querying.html)
